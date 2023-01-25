@@ -1,0 +1,15 @@
+body {
+    background-color :honeydew;
+}
+#score {
+    font-size:30px;
+    margin-left: 20px;
+}
+#timer {
+    font-size:25px;
+    float:right;
+    margin-right :50px;
+}
+#quick_draw_data_set {
+    color:rgb(0, 255, 0);
+}
